@@ -1,5 +1,4 @@
 # PubMedQA
-This repository is currently under construction, sorry for any inconvenience.
 
 ## Download
 PQA-L is already in `./data/`
