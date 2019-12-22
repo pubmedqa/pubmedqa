@@ -25,7 +25,7 @@ To evaluate your model predictions, please prepare the results in a json format 
 python evaluation.py PREDICTIONS_PATH
 ```
 
-To submit a system on the Leaderboard, please send an email that contains the model predictions and a brief description of the system to Qiao Jin via [jinqiao.andy@gmail.com](mailto:jinqiao.andy@gmail.com).
+To submit a system on the Leaderboard, please send an email that contains the model predictions and a brief description of the system to Qiao Jin via [qiaojin.andy@gmail.com](mailto:qiaojin.andy@gmail.com).
 
 
 ## Human performance
