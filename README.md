@@ -8,7 +8,7 @@ PQA-L is already in `./data/`
 [PQA-A](https://drive.google.com/open?id=15v1x6aQDlZymaHGP7cZJZZYFfeJt2NdS)
 
 ## Split the dataset
-After downloading PQA-A and PQA-L as `ori_pqaa.json` and `ori_pqau.json` in the `./data/`, enter the `./preprocess/` directory and split the dataset:
+After downloading PQA-A and PQA-U as `ori_pqaa.json` and `ori_pqau.json` in the `./data/`, enter the `./preprocess/` directory and split the dataset:
 
 ```bash
 cd preprocess
